@@ -1,5 +1,4 @@
 
-
 body{
 font-family:"Lucida Grande", "Lucida Sans Unicode", Verdana, Arial, Helvetica, sans-serif;
 font-size:12px;
@@ -62,18 +61,50 @@ width:200px;
 margin:2px 0 20px 10px;
 }
 #submit{
-clear:both;
-margin-left:150px;
-width:125px;
-height:31px;
-background:#F1F2D8;
-text-align:center;
-line-height:20px;
-color:#000000;
-font-size:12px;
-font-weight:bold;
-}
+ clear:both;
+ margin-left:150px;
+ width:125px;
+ height:31px;
+ background:#F1F2D8;
+ text-align:center;
+ line-height:20px;
+ color:#000000;
+ font-size:12px;
+ font-weight:bold;
+ }
+#output 
+ {
+	clear:both;
+	margin-bottom: 10px;
+	color: blue;
+ }
 
-#result
-{ font-size: large;
- color: red; }
+#remove 
+{ 
+  font-style: bold;
+ clear:both;
+ margin-left:150px;
+ width:125px;
+ height:31px;
+ background:#F1F2D8;
+ text-align:center;
+ line-height:20px;
+ color:#000000;
+ font-size:12px;
+ font-weight:bold;
+ }
+
+#B-join
+{ 
+  font-style: bold;
+ clear:both;
+ margin-left:150px;
+ width:125px;
+ height:31px;
+ background:#F1F2D8;
+ text-align:center;
+ line-height:20px;
+ color:#000000;
+ font-size:12px;
+ font-weight:bold;
+ }
