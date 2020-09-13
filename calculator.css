@@ -1,0 +1,42 @@
+body {
+	max-width: 600px;
+	min-width: 200px;
+	height: auto;
+	margin: auto;
+}
+
+h1 {
+	font: sans-serif;
+	font-family: calibri;
+	font-size: x-large;
+	color: blue;
+	text-align: center;
+	text-transform: uppercase;
+ }
+.A {
+	width: 70%;
+	height: auto;
+	margin: auto;
+	padding: 5%;
+	background:100%;
+	background-color:lightgrey;
+	box-sizing: border-box;
+	border: 4px double gold;
+	font-family: calibri;
+
+
+}
+
+form {
+	width: 100%;
+	height: auto;
+}
+#n1 #f1 #s1 #c1 #bt1 
+ { float: left; 
+ clear: both;}
+#bt1 { font-size: medium;
+       color: red; }
+
+#bt2 { float: right;
+       font-size: medium;
+       color: red; }
